@@ -34,5 +34,7 @@ and then we had a small talk about reconasens in computer
 and how does a malware actually works from getting transfered to infecting the system
 then we had sone fun activity in a website called have i been found to see our mail id has been leaked or not and well mine was not liked so good i guess
 well that was a new learning for all of us and me and it was fun hope it will be the same for the next classes too
-
+[day4]
+well day 4 was pretty boring since sir was absent and we where doing nothing most us where playing games or studying and i was doing my reasearch in qunataum mech .
+well thats how i done my entire 2 hours i know it pretty boring but i hope firsday will be fun
 
