@@ -37,4 +37,13 @@ well that was a new learning for all of us and me and it was fun hope it will be
 [day4]
 well day 4 was pretty boring since sir was absent and we where doing nothing most us where playing games or studying and i was doing my reasearch in qunataum mech .
 well thats how i done my entire 2 hours i know it pretty boring but i hope firsday will be fun
-
+[day5]
+THE class started with us submitting our assigments.
+And we started talking about the assigments and then with a samll revison about "LOW PREVELIGE USER" and a "HIGH PREVEILGE USER"
+And why do we conduct security audits
+And a wiki page for ports called "WIKI TCP and UDP port nunmber.
+And we learned about "SSH"(Secure Shell).
+And now we are tring to hack a system.
+creating a python pipeline.
+And now we are running villain frame work .
+and now we have to create our own villain frma work  by the end of this month 22en of august
